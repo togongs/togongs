@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=150&section=header&text=Welcome!&fontSize=90)
 
 <h4>About me</h4>
 <ul>
-  <li>💼 FrontEnd Engineer</li>
+  <li>💼 FrontEnd Engineer at <a href="https://www.nialabs.com/">nialabs</a></li>
 </ul>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=togongs&show_icons=true&theme=radical)
+![togong's GitHub stats](https://github-readme-stats.vercel.app/api?username=togongs&show_icons=true&theme=white)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=togongs&layout=compact)
