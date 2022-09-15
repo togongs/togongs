@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
+&nbsp
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
@@ -23,5 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+&nbsp
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=togongs&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=togongs&layout=compact)](https://github.com/togongs/github-readme-stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=togongs&layout=compact)](https://github.com/togongs/github-readme-stats)
