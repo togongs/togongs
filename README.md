@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=150&section=header&text=Welcome!&fontSize=90)
-
 <h4>About me</h4>
 <ul>
   <li>💼 FrontEnd Engineer at <a href="https://www.nialabs.com/">nialabs</a></li>
