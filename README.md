@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![togong's GitHub stats](https://github-readme-stats.vercel.app/api?username=togongs&show_icons=true&theme=white)
+<!-- ![togong's GitHub stats](https://github-readme-stats.vercel.app/api?username=togongs&show_icons=true&theme=white) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=togongs&layout=compact)
