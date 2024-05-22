@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Redux-blueviolet?style=flat-square&logo=Redux&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/React Query-EF4444?style=flat-square&logo=React-Query&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/recoil-00C7B7?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-<!-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 
 
 
